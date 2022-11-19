@@ -56,7 +56,7 @@
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-react": "^7.18.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "ip": "^1.1.5",
     "ngrok": "^3.2.7",
     "postcss-advanced-variables": "^3.0.0",
